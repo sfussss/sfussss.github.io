@@ -1,0 +1,17 @@
+html, h1 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 200;
+}
+
+header.about {
+  margin-top: 150px;
+}
+
+header.about p {
+  font-size: 24px;
+}
+
+.container {
+  width: 85%;
+  margin: 0 auto;
+}
